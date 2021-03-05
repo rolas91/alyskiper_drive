@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+     <color name="primary">#000018</color>
+    <color name="celeste">#03F9FC</color>
+    <color name="azul_oscuro">#000018</color>
+    <color name="azul_neon">#1c75e3</color>
+</resources>
